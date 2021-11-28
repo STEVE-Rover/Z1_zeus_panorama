@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>zeus_panorama</name>
+  <version>0.0.0</version>
+  <description>The zeus_panorama package</description>
+
+  <maintainer email="jeremie.bourque@usherbrooke.ca">Jeremie Bourque</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+
+  <export>
+
+  </export>
+</package>
